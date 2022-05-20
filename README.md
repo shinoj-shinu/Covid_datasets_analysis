@@ -1,5 +1,7 @@
 # Covid_datasets_analysis
 
+## Python pandas library used for analaysis
+
 Questions are given in the project and then solved with the help of Python. 
 
 Q. 1) Show the number of Confirmed, Deaths and Recovered cases in each Region.
